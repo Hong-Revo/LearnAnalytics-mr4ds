@@ -20,7 +20,7 @@ During class, pleae review the links and information below:
 
 ## Class Links
 
-+ [course webpage](https://azure.github.io/mr4ds/)
++ [course webpage](https://azure.github.io/LearnAnalytics-mr4ds/)
 + [gitter page](https://gitter.im/mr4ds/Lobby)
     * we are going to try and use gitter as a discussion forum for anything related to the course materials, and Microsoft R Server more generally
 + [Course wiki](https://github.com/Azure/mr4ds/wiki)
@@ -47,10 +47,7 @@ Please refer to the [course syllabus](https://github.com/akzaidi/R-cadence/wiki/
 
 We will use DSVMs (Data Science Virtual Machines) from the Azure marketplace to run the course materials. For the Spark training, we will use Spark HDInsight Premium clusters, also from Azure. If you are interested in running these materials in a different environment, see the course [wiki](https://github.com/akzaidi/R-cadence/wiki) for instructions. 
 
-+ JupyterHub:
-    * https://mr4dsmunchen.eastus2.cloudapp.azure.com:8000
-+ RStudio Server:
-    * http://mr4dsmunchen.eastus2.cloudapp.azure.com:8787/
+You can download R client locally using the Dockerfile [here](https://github.com/akzaidi/mrclient-docker).
    
 ### Credentials
 
